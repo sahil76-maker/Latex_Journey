@@ -46,7 +46,7 @@ The objective is to understand LaTeX concepts, implement them through practical 
 
 ## Learning Source
 
-Lecture materials provided by the faculty of MNIT Jaipur.
+Lecture materials provided by the technical writing faculty Neeta Nain.
 
 ## Author
 
